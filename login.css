@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+
+    justify-items: center;
+}
+.h1{
+    text-align: center;
+    color: red;
+    left: 50px;
+    font-style:oblique;
+
+}
+.reg{
+    text-decoration: none;
+    background-color:blue;
+    margin: 10px;
+    color: white;
+    border-radius: 5px;
+
+}
+.fp{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    background-color: blue;
+    border-radius: 5px;
+}
+.back{
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    font-size: 22px;
+    border-radius: 5px;
+    margin: 10px;
+    
+}
+.button{
+    text-decoration:dashed;
+    color:aliceblue;
+    background-color: blue;
+    border-radius: 5px;
+    margin: 80px;
+}
